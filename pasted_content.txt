@@ -1,0 +1,130 @@
+Crie um **site Single Page de portfólio pessoal**, moderno, criativo, visualmente impactante e totalmente responsivo.
+
+O site deve ser desenvolvido **exclusivamente com HTML5, CSS3 e JavaScript puro (Vanilla JS)**, sem frameworks ou bibliotecas externas.
+
+### ESTILO VISUAL
+
+**Estilo desejado:** [minimalista e meio futurista]
+
+**Paleta de cores:**  Dark Gray (e.g., #1A1A1A), Dark Green (e.g., #143628), Vibrant Red (e.g., #E62429) 
+
+A identidade visual deve ser consistente em todas as seções.
+
+Utilize:
+- Animações suaves de entrada dos elementos;
+- Efeitos de hover em botões, imagens e cards;
+- Transições entre estados;
+- Pequenos efeitos de movimento e interação usando JavaScript quando fizer sentido;
+- Layout responsivo para computador, tablet e celular;
+- Boa hierarquia visual e tipografia;
+- Rolagem suave entre as seções.
+
+### ESTRUTURA DO PORTFÓLIO
+
+**1. HERO — APRESENTAÇÃO**
+
+Crie uma seção inicial de destaque contendo:
+- Foto de perfil (por enquanto apenas o ícone de usuário);
+- Nome: Gabriel Mariano Dourado;
+- Profissão/área: desenvolvedor;
+- Pequeno texto de apresentação;
+- Botão CTA: [Ver projetos].
+
+O CTA deve levar o visitante para a seção de projetos/conteúdos.
+
+**2. INTRODUÇÃO**
+
+Crie uma seção com um texto apresentando a pessoa, seus interesses, habilidades, experiências e objetivos.
+
+Texto:
+[Desenvolvo funções digitais e soluções orientadas por dados, com foco em performance, usabilidade e resultados. Explore meus projetos e conheça um pouco mais do meu trabalho com desenvolvimento e análise de dados.]
+
+**3. VÍDEO**
+
+Crie uma seção dedicada a um vídeo.
+
+Utilize a tag HTML5 `<video>` e deixe claramente indicado no código onde o arquivo deve ser inserido:
+
+`<source src="video/video.mp4" type="video/mp4">`
+
+O vídeo deve possuir controles e ser responsivo.
+
+**4. ÁUDIO**
+
+Crie uma seção para apresentar um arquivo de áudio.
+
+Utilize a tag HTML5 `<audio>` e deixe claramente indicado no código onde inserir o arquivo:
+
+`<source src="audio/audio.mp3" type="audio/mpeg">`
+
+Inclua controles de reprodução.
+
+**5. IMAGEM**
+
+Crie uma seção visual para apresentar uma imagem de destaque.
+
+Utilize:
+
+`<img src="imagens/imagem.jpg" alt="Descrição da imagem">`
+
+A imagem deve possuir um efeito visual de hover.
+
+**6. INFOGRÁFICO**
+
+Crie uma seção para apresentar um infográfico.
+
+Utilize:
+
+`<img src="imagens/infografico.png" alt="Infográfico">`
+
+A seção deve valorizar visualmente o infográfico e permitir sua visualização de maneira adequada em telas menores.
+
+**7. ANIMAÇÃO**
+
+Crie uma seção para apresentar uma animação.
+
+Utilize a tag `<video>` para permitir a inserção de um arquivo de animação, deixando claramente indicado no código:
+
+`<source src="animacao/animacao.mp4" type="video/mp4">`
+
+**8. MÚSICA**
+
+Crie uma seção para apresentar uma música ou produção sonora.
+
+Utilize a tag HTML5 `<audio>`:
+
+`<source src="musica/musica.mp3" type="audio/mpeg">`
+
+A seção deve possuir uma apresentação visual diferenciada das demais.
+
+**9. RODAPÉ**
+
+Crie um rodapé contendo:
+- Nome;
+- Uma pequena frase;
+- Direitos autorais;
+- Links para redes sociais.
+
+Deixe os links prontos para serem substituídos:
+
+- Instagram: `#`
+- LinkedIn: `#`
+- GitHub: `#`
+- YouTube: `#`
+- Outra rede: `#`
+
+Os ícones ou links devem possuir efeitos de hover.
+
+### REQUISITOS FINAIS
+
+O resultado deve ter aparência de um **portfólio profissional**, e não de uma página genérica.
+
+Use HTML semântico, CSS organizado e JavaScript apenas quando necessário.
+
+Não utilize frameworks como Bootstrap, React, Vue ou similares.
+
+Todos os textos, imagens, vídeos, áudios e links devem ser fáceis de substituir posteriormente.
+
+Crie uma experiência visual interessante utilizando **animações, transições, efeitos de hover, microinterações e elementos que apareçam suavemente durante a rolagem da página**.
+
+O código deve ser completo e funcional (e que eu consiga ter acesso a ele).
